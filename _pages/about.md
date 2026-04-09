@@ -20,14 +20,9 @@ Urban microclimate · 3D urban morphology · Land surface temperature · Urban h
 
 **Ph.D. in Urban Planning and Real Estate** · (Sep. 2022 – Present)  
 Chung-Ang University, Seoul, Republic of Korea  
-Advisor: Prof. Yujin Park
-
 
 **M.S. in Urban Planning and Real Estate** · (Aug. 2022)  
 Chung-Ang University, Seoul, Republic of Korea  
-Thesis: *Station-Level Effects of the COVID-19 Pandemic on Subway Ridership in Seoul*  
-Advisor: Prof. Myung-Jin Jun
-
 
 **B.S. in Urban Planning and Real Estate** · (Feb. 2016)  
 Minor in Economics  
@@ -35,4 +30,5 @@ Chung-Ang University, Seoul, Republic of Korea
 
 
 ## ⭐News
-- **Apr. 2025** — Paper published in *Applied Geography* (Vol. 181)
+- I am expected to complete my Ph.D. in late Feb. 2027 and am actively looking for postdoctoral opportunities in urban climate, sustainability, or related fields. Feel free to reach out!
+
