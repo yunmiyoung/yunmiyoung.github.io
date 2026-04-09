@@ -30,5 +30,5 @@ Chung-Ang University, Seoul, Republic of Korea
 
 
 ## ⭐News
-- I am expected to complete my Ph.D. in late Feb. 2027 and am actively looking for postdoctoral opportunities in urban climate, sustainability, or related fields. Feel free to reach out!
+- I am expected to complete my Ph.D. in late Feb. 2027 and am actively looking for **postdoctoral opportunities** in urban climate, sustainability, or related fields. Feel free to reach out!
 
