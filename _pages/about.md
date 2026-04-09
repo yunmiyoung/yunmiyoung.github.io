@@ -29,9 +29,7 @@ Advisor: Prof. Yujin Park
 **M.S. in Urban Planning and Real Estate** · (Aug. 2022)
 
 Chung-Ang University, Seoul, Republic of Korea
-
 Thesis: *Station-Level Effects of the COVID-19 Pandemic on Subway Ridership in Seoul*
-
 Advisor: Prof. Myung-Jin Jun
 
 ---
