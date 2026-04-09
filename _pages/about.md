@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! 👋 I am a Ph.D. candidate in Urban Planning and Real Estate at Chung-Ang University, Seoul, Republic of Korea. My research journey began with urban thermal environments and has since expanded toward carbon neutrality and urban sustainability. To me, studying cities is like uncovering the hidden layers of the world we live in, and that's what makes it endlessly exciting.
 
-If you have any questions or are interested in my research, feel free to reach out anytime! ([mmloveu@cau.ac.kr])(mailto:mmloveu@cau.ac.kr)
+If you have any questions or are interested in my research, feel free to reach out anytime! [mmloveu@cau.ac.kr](mailto:mmloveu@cau.ac.kr)
 
 
 ## 🌎Research Interests
