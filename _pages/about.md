@@ -22,18 +22,17 @@ Urban microclimate · 3D urban morphology · Land surface temperature · Urban h
 Chung-Ang University, Seoul, Republic of Korea  
 Advisor: Prof. Yujin Park
 
----
 
 **M.S. in Urban Planning and Real Estate** · (Aug. 2022)  
 Chung-Ang University, Seoul, Republic of Korea  
 Thesis: *Station-Level Effects of the COVID-19 Pandemic on Subway Ridership in Seoul*  
 Advisor: Prof. Myung-Jin Jun
 
----
 
 **B.S. in Urban Planning and Real Estate** · (Feb. 2016)  
 Minor in Economics  
 Chung-Ang University, Seoul, Republic of Korea
 
-## News
+
+## ⭐News
 - **Apr. 2025** — Paper published in *Applied Geography* (Vol. 181)
