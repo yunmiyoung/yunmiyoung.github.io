@@ -17,9 +17,9 @@ Jun, M. J., & **Yun, M. Y.** (2023) "[Station-level effects of the COVID-19 pand
 
 ## Working Papers 
 
-**Yun, M.**, & Park, Y. "Disentangling Urbanization and Background Warming in Long-Term Surface Temperature Change: Evidence from a Decomposition Analysis of New Town Development" *(Under review)*
+**Yun, M.**, & Park, Y. "Disentangling Urbanization and Background Warming in Long-Term Surface Temperature Change: Evidence from a Decomposition Analysis of New Town Development" *(Under review at *ustainable Cities and Society)*
 
-**Yun, M.**, & Park, Y. "How Do Changes in 3D Urban Morphology Affect Building Carbon Emissions? The Moderating Role of Land Surface Temperature" *(Under review)*
+**Yun, M.**, & Park, Y. "How Do Changes in 3D Urban Morphology Affect Building Carbon Emissions? The Moderating Role of Land Surface Temperature" *(Working papers)*
 
 ---
 
