@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-Reviewed Publications (SSCI/SCI)
+## Peer-Reviewed Publications (SSCI/SCIE)
 
 **Yun, M.**, & Park, Y. (2025) "[Understanding the spatial distribution and nonlinear drivers of the diurnal surface temperature range: Insights from ECOSTRESS and explainable machine learning](https://doi.org/10.1016/j.apgeog.2025.103672)". *Applied Geography*, 181, 103672.
 
